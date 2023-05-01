@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Julian Smith
+- 👀 I’m interested in learning about programming.
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on anything and everything.
+- 📫 How to reach me contact me via email - Juliansmith010@gmail.com
